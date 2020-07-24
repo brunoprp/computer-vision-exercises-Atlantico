@@ -12,9 +12,9 @@ Created on Thu Jul 23 10:43:48 2020
 
 #   Examples
 # Example of two tracking points to stop the test1.mp4 video tracking_point =  np.array([np.array([[125., 135.]]), np.array([[125., 120.]])]
-#Example of two tracking points to stop the test2.mp4 video tracking_point =  np.array([np.array([[125., 100.]]), np.array([[100., 70.]])], dtype=np.float32)
+# Example of two tracking points to stop the test2.mp4 video tracking_point =  np.array([np.array([[125., 100.]]), np.array([[100., 70.]])], dtype=np.float32)
 
-# Lucas-Kanade Optical Flow in OpenCV ==============================================================================
+# Lucas-Kanade Optical Flow in OpenCV
 
 import cv2
 import numpy as np
