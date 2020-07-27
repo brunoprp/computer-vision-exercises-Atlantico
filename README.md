@@ -35,3 +35,13 @@ Selecionar uma área de um video e realizar o tracking utilizando Optical Flow. 
 
 
   <a href="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/3-Model-Deployment-(Web%20Docker)/imgs-results/result5.png?raw=true"><img src="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/3-Model-Deployment-(Web%20Docker)/imgs-results/result5.png?raw=true" width="850" alt="accessibility text"></a>  
+
+
+ ## 4) Object detection com deep learning
+  Detectar objetos em imagens ou vídeo utilizando um método de deep learning pre treinado com imagens do dataset ImageNet, MS COCO ou outros. Você poderá utilizar algoritmos ou adaptações já implementadas para essa atividade.
+  As instruções e os resultados da resolução pode ser encontrado aqui [4-Object-detection](https://github.com/brunoprp/computer-vision-exercises-Atlantico/tree/master/4-Object-detection).
+  
+  <a href="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/4-Object-detection/results/img-test5.png?raw=true"><img src="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/4-Object-detection/results/img-test5.png?raw=true"  width="550" alt="accessibility text"></a>  
+
+
+  <a href="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/4-Object-detection/results/img-test1.png?raw=true"><img src="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/4-Object-detection/results/img-test1.png?raw=true" width="550" alt="accessibility text"></a>  
