@@ -7,8 +7,10 @@ from flask import Flask, flash, request, redirect, url_for, send_from_directory,
 from werkzeug.utils import secure_filename
 
 def imagePreprocessing(pathImage):
+    """ Return image processada"""
     deeplab_model = Deeplabv3()
 
+    #we resized the entry to be 512px wide.
     input_img = cv2.imread(pathImage)
     w, h, _ = input_img.shape
     ratio = 512. / np.max([w,h])
