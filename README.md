@@ -1,5 +1,11 @@
 # Computer vision exercises Atlantico
-Computer vision exercises Atlantico
+Computer vision exercises Atlantico response
+## Conteúdo
+  * 1\) [Optical flow](https://github.com/brunoprp/computer-vision-exercises-Atlantico/tree/master/1-Optical-Flow)
+  * 2\) [Image stitching](https://github.com/brunoprp/computer-vision-exercises-Atlantico/tree/master/2-Image-Stitching)
+  * 3\) [Model Deployment (Web/Docker)](https://github.com/brunoprp/computer-vision-exercises-Atlantico/tree/master/3-Model-Deployment-(Web%20Docker))
+  * 4\) [Object detection](https://github.com/brunoprp/computer-vision-exercises-Atlantico/tree/master/4-Object-detection)
+  * 5\) [Context segmentation](https://github.com/brunoprp/computer-vision-exercises-Atlantico/tree/master/5-Context-Segmentation)
 
 ## 1) Optical flow e tracking 
 Selecionar uma área de um video e realizar o tracking utilizando Optical Flow. Desenhe o vetor resultante entre as localizações das features.
