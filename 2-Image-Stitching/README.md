@@ -33,6 +33,18 @@ $ pip install matplotlib==3.1.3
 
 ```
 #### Results:
- <a href="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/1-Optical-Flow/result-images/result1.png"><img src="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/1-Optical-Flow/result-images/result1.png"  width="550" alt="accessibility text"></a>  
+ * Input image:
  
-  <a href="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/1-Optical-Flow/result-images/result2.png"><img src="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/1-Optical-Flow/result-images/result2.png"  width="550" alt="accessibility text"></a> 
+    <a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/image_stitching/assets/image1.jpg"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/image_stitching/assets/image1.jpg" align="left" width="200"></a>
+     
+    <a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/image_stitching/assets/image2.jpg"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/image_stitching/assets/image2.jpg" align="left" width="200"></a>
+    
+* Output image:
+ 
+   <a href="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/2-Image-Stitching/imges_results/panorama.jpg?raw=true"><img src="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/2-Image-Stitching/imges_results/panorama.jpg?raw=true" align="left" width="600"></a>
+
+ 
+ 
+ 
+
+
