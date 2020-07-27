@@ -105,5 +105,5 @@ data_folder = '/media/bruno/HD-Arquivos2/Data_Object_Detect/'
 <a href="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/4-Object-detection/results/img-test4.png?raw=true"><img src="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/4-Object-detection/results/img-test4.png?raw=true"></a>
 
 ### 6\) Limitations
-    As limistações foram ...
+   Para resultados mais concretos é preciso fazer mais testes com diferentes hiperparâmetros e aumentar o número de épocas de treinamento para um resultado melhor, porém isso não foi possível devido o tempo limitado para realização do trabalho. Também seria interessante testar  outros modelos pré-treinados para a extração de caracterís. 
 
