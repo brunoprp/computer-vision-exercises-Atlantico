@@ -24,4 +24,14 @@ Selecionar uma área de um video e realizar o tracking utilizando Optical Flow. 
   <a href="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/2-Image-Stitching/imges_results/panorama.jpg?raw=true"><img src="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/2-Image-Stitching/imges_results/panorama.jpg?raw=true"  width="550" alt="accessibility text"></a>  
 
 
-  <a href="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/2-Image-Stitching/imges_results/all_panorama.jpg?raw=true"><img src="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/2-Image-Stitching/imges_results/all_panorama.jpg?raw=true" width="550" alt="accessibility text"></a>  
+  <a href="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/2-Image-Stitching/imges_results/all_panorama.jpg?raw=true"><img src="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/2-Image-Stitching/imges_results/all_panorama.jpg?raw=true" width="550" alt="accessibility text"></a>
+  
+  
+   ## 3) Model Deployment (Web/Docker)
+  Implementar serviço web básico com uma rota que receba imagem via file upload e retorne o resultado processado.
+  As instruções e os resultados da resolução pode ser encontrado aqui [3-Model-Deployment-(Web/Docker)](https://github.com/brunoprp/computer-vision-exercises-Atlantico/tree/master/3-Model-Deployment-(Web%20Docker)).
+  
+  <a href="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/3-Model-Deployment-(Web%20Docker)/imgs-results/resul1.png?raw=true"><img src="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/3-Model-Deployment-(Web%20Docker)/imgs-results/resul1.png?raw=true"  width="850" alt="accessibility text"></a>  
+
+
+  <a href="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/3-Model-Deployment-(Web%20Docker)/imgs-results/result5.png?raw=true"><img src="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/3-Model-Deployment-(Web%20Docker)/imgs-results/result5.png?raw=true" width="850" alt="accessibility text"></a>  
