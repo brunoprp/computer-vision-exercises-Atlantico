@@ -1,0 +1,9 @@
+keras==2.2.4
+tensorflow==2.0.0a0
+numpy
+matplotlib
+Pillow
+tqdm
+opencv-contrib-python
+flask
+Werkzeug
