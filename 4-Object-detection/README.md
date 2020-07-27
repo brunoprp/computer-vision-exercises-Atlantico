@@ -80,5 +80,5 @@ data_folder = '/media/bruno/HD-Arquivos2/Data_Object_Detect/'
 <a href="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/4-Object-detection/results/img-test4.png?raw=true"><img src="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/4-Object-detection/results/img-test4.png?raw=true"></a>
 
 ### 6\) Limitations
-
+    As limistações foram ...
 
