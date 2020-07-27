@@ -2,28 +2,9 @@
 ## 3\) Model Deployment (Web/Docker)
   * Implementar serviço web básico com uma rota que receba imagem via file upload e retorne o resultado processado.
 
+  <a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/web-service/input.jpg"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/web-service/input.jpg"  width="400"></a>  <a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/web-service/postman-output.png"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/web-service/postman-output.png"  width="530"></a>
 
-  <a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/image_stitching/assets/image1.jpg"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/image_stitching/assets/image1.jpg" align="left" width="128"></a>
-
-
-
-  <a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/image_stitching/assets/image2.jpg"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/image_stitching/assets/image2.jpg" align="left" width="128"></a>
-
-
-
-  <a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/image_stitching/assets/image3.jpg"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/image_stitching/assets/image3.jpg" align="left" width="128"></a>
-
-
-
-  <a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/image_stitching/assets/image4.jpg"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/image_stitching/assets/image4.jpg" align="left" width="128"></a>
-
-  
-
-  <a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/image_stitching/assets/image5.jpg"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/image_stitching/assets/image5.jpg" width="128"></a>
-
-
-Foi implementado a resolução em dois ambientes Python: Spyder com uma versão do código [image_stitching.py]() e uma versão no Jupyter Notebook [Image_stitching.ipynb](). Ambas as implementações tem as mesma funcionalidades, onde foi criado uma classe `ImageStitching()`  que possui o  métodos `stitchingImg(self, img1,img2, method)`  responsável por fazer a junção de duas imagens por vez. Na parte inferior do cadigo existe uma implantação Image stitching com uma função pronta do OpenCv `stitchingOpencv(list_dire_images)`, capaz de fazer fazer a junção de várias imagens simultaneamente, mais informações [aqui](https://docs.opencv.org/master/d2/d8d/classcv_1_1Stitcher.html). Para teste e analisar o resultado execute o arquivo [Image_stitching.ipynb](https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/2-Image-Stitching/Image_stitching.ipynb) ou o [image_stitching.py](https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/2-Image-Stitching/image_stitching.py).
-
+ 
 ### Python Version 3.7 
 ##### Installation of used libraries:
 ```sh
