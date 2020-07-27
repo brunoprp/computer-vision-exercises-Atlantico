@@ -30,16 +30,15 @@ Foi implementado a resolução em dois ambientes Python: Spyder com uma versão 
 $ pip install numpy==1.16.2
 $ pip install opencv-python==4.1.2
 $ pip install matplotlib==3.1.3
+$ pip install opencv-contrib-python
 
 ```
 #### Results:
 
-  * 1)
    <a href="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/2-Image-Stitching/imges_results/panorama.jpg?"><img src="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/2-Image-Stitching/imges_results/panorama.jpg?" align="left" width="600"></a>
    
  
  
- * 2) 
    
    <a href="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/2-Image-Stitching/imges_results/all_panorama.jpg?"><img src="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/2-Image-Stitching/imges_results/all_panorama.jpg?" align="left" width="600"></a>
    
