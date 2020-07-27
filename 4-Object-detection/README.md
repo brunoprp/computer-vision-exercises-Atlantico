@@ -16,11 +16,11 @@ Detectar objetos em imagens ou vídeo utilizando um método de deep learning.
 * Numpy 1.18.5
 * Matplotlib 3.1.3
 #### Instalaçãoes
-Pytorck on GPU Anaconda
+Pytorch on GPU Anaconda
 ```sh 
 $ conda install -c anaconda pytorch-gpu
 ```
-Pytorck on CPU Anaconda
+Pytorch on CPU Anaconda
 ```sh 
 $ conda install -c anaconda pytorch-cpu
 ```
