@@ -34,10 +34,12 @@ $ pip install matplotlib==3.1.3
 ```
 #### Results:
 
-
-   <a href="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/2-Image-Stitching/imges_results/panorama.jpg?raw=true"><img src="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/2-Image-Stitching/imges_results/panorama.jpg?" align="left" width="600"></a>
+  * 1)
+   <a href="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/2-Image-Stitching/imges_results/panorama.jpg?"><img src="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/2-Image-Stitching/imges_results/panorama.jpg?" align="left" width="600"></a>
    
-   
+ 
+ 
+ * 2) 
    
    <a href="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/2-Image-Stitching/imges_results/all_panorama.jpg?"><img src="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/2-Image-Stitching/imges_results/all_panorama.jpg?" align="left" width="600"></a>
    
