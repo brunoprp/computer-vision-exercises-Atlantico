@@ -44,4 +44,8 @@ Selecionar uma área de um video e realizar o tracking utilizando Optical Flow. 
   <a href="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/4-Object-detection/results/img-test5.png?raw=true"><img src="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/4-Object-detection/results/img-test5.png?raw=true"  width="550" alt="accessibility text"></a>  
 
 
-  <a href="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/4-Object-detection/results/img-test1.png?raw=true"><img src="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/4-Object-detection/results/img-test1.png?raw=true" width="550" alt="accessibility text"></a>  
+  <a href="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/4-Object-detection/results/img-test1.png?raw=true"><img src="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/4-Object-detection/results/img-test1.png?raw=true" width="550" alt="accessibility text"></a> 
+  
+  ## 5) Context segmentation com deep learning (Avançado)
+  Implantação parcial  [5-Context-Segmentation](https://github.com/brunoprp/computer-vision-exercises-Atlantico/tree/master/5-Context-Segmentation)
+  
