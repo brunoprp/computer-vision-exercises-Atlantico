@@ -68,8 +68,33 @@ data_folder = '/media/bruno/HD-Arquivos2/Data_Object_Detect/'
 ### 4\) Evaluate Model
  Para iniciar a avaliação do modelo treinado é preciso executar o código `Evaluate_Model.py` ou `Evaluate_Model.ipynb` onde pode ser analizado a ultima avalição. Para isso na variável `checkpoint`, passe o caminho do arquivo salvo com o modelo treinado, exemplo   `checkpoint = 'checkpoint_ssd300.pth.tar`. As previsões analisadas são avaliadas em relação aos objetos de verdade fundamentais. A métrica de avaliação é a [Precisão Média Média (mAP)](https://medium.com/@jonathan_hui/map-mean-average-precision-for-object-detection-45c121a31173), é usado a função `calculate_mAP()` em `utils.py` para esta finalidade. O modelo treinado por este repositório pode ser baixado [aqui](https://drive.google.com/file/d/1HBq4fsq7VyiZZqWllb3ZuDFZ9hIcNXUk/view?usp=sharing), para avaliar essa modelo execute o arquivo `Evaluate_Model.py` ou `Evaluate_Model.ipynb`, colocando o caminho da pasta do modelo baixado na variável  `checkpoint = 'checkpoint_ssd300.pth.tar`.
 ### 5\) Results 
+* Abaixo está a curva de aprendizado com as 20 épocas de treinamento realizado, como pode-se perceber modelo melhora o seu semplendo gradativamente a cada época, com a avaliação da métrica mAP. O resultado da métrica mAP para os dados de testes foi 0.6427 para a média de todo as classe. Já para cada classe foi:
+
+*  aeroplane = 0.708512008190155
+*  bicycle = 0.7454192638397217
+*  bird = 0.6230981945991516
+*  boat = 0.5221483111381531
+*  bottle = 0.24800018966197968
+*  bus = 0.7201552391052246
+*  car = 0.7631471753120422
+*  cat = 0.8401749730110168
+*  chair = 0.3495808243751526
+*  cow = 0.703272819519043
+*  diningtable = 0.6119518876075745
+*  dog = 0.7849552035331726
+*  horse = 0.8075953722000122
+*  motorbike = 0.7407485842704773
+*  person = 0.658084511756897
+*  pottedplant = 0.2637472748756408,
+*  sheep = 0.6770304441452026
+*  sofa = 0.6690605878829956
+*  train = 0.7741146087646484
+*  tvmonitor = 0.6433150172233582
+
 
 <a href="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/4-Object-detection/results/loss.png?raw=true"><img src="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/4-Object-detection/results/loss.png?raw=true"></a>
+
+* Para analisar o resultado da detecção execute o arquivo example_image_detect.ipynb, passando o caminho do modelo na variável `checkpoint = 'checkpoint_ssd300.pth.tar'`  e o caminho da imagem  que será testada na variável   `img_path = 'image-test/img2.jpg'`, a baixo está alguns exemplos dessa execução:
 
   <a href="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/4-Object-detection/results/img-test1.png?raw=true"><img src="https://github.com/brunoprp/computer-vision-exercises-Atlantico/blob/master/4-Object-detection/results/img-test1.png?raw=true"></a>
   
