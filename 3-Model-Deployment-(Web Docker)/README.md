@@ -1,6 +1,6 @@
-# Solutions for Image stitching
-## 2\) Image stitching
-  * Utilizar descritores de imagem, como SURF, SIFT ou ORB para identificar descritores similares entre imagens e conecta-las, gerando uma única imagem.
+# Solutions for Model Deployment (Web/Docker)
+## 3\) Model Deployment (Web/Docker)
+  * Implementar serviço web básico com uma rota que receba imagem via file upload e retorne o resultado processado.
 
 
   <a href="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/image_stitching/assets/image1.jpg"><img src="https://raw.githubusercontent.com/alanoMartins/computer_vision_exercises/master/image_stitching/assets/image1.jpg" align="left" width="128"></a>
